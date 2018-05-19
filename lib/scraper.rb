@@ -39,7 +39,7 @@ class Scraper
     student
   end
 
-  #   :twitter=>"http://twitter.com/flatironschool",
+  #   :twitter=>"http://twitter.com/flatironschool"
   #   :linkedin=>"https://www.linkedin.com/in/flatironschool",
   #   :github=>"https://github.com/learn-co,
   #   :blog=>"http://flatironschool.com",
