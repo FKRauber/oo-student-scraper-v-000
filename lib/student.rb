@@ -13,7 +13,7 @@ class Student
 
   def self.create_from_collection(students_array)
     students_array.each { |k, v|
-
+      
     }
   end
 
@@ -24,6 +24,6 @@ class Student
   end
 
   def self.all
-
+    @@all
   end
 end
